@@ -1,6 +1,6 @@
 function add(a: number, b : number): number {
-    return (a +b)
+    return (a+b);
 
 }
 
-add(5,9)
+add(5,8)
