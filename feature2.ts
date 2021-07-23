@@ -4,3 +4,5 @@ function add(a: number, b : number): number {
 }
 
 add(5,8)
+
+console.log('bimp')
